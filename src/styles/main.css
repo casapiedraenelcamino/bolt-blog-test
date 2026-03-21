@@ -49,6 +49,7 @@
   height: 100%;
   padding: 0 15px;
   color: rgb(255, 255, 255);
+  
   transition: color 0.5s ease-in-out;
 }
 
