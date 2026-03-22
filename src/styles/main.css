@@ -53,6 +53,16 @@
   transition: color 0.5s ease-in-out;
 }
 
+.card-info:hover{
+  
+  transform:scale(0.99);
+  transition: ease-in-out 100ms;
+}
+
+
+
+
+
 .nav-link:hover {
   color: #85bb85;
 }
