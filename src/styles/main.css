@@ -49,6 +49,7 @@
   height: 100%;
   padding: 0 15px;
   color: rgb(255, 255, 255);
+<<<<<<< HEAD
   
   transition: color 0.5s ease-in-out;
 }
@@ -63,6 +64,11 @@
 
 
 
+=======
+  transition: color 0.5s ease-in-out;
+}
+
+>>>>>>> 761bf17 (nuevo blog astro)
 .nav-link:hover {
   color: #85bb85;
 }
